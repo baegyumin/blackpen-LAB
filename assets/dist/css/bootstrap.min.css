@@ -476,6 +476,7 @@ progress{
     display:none!important
 }
 .lead{
+    text-shadow: 0px 0px 10px black;
     font-size:1.25rem;
     font-weight:300
 }
